@@ -13,11 +13,11 @@
   "redirects": [
     {
       "source": "/blog",
-      "destination": "https://www.notion.so/9730f9bbce4c4554a084f6ea71d606c9"
+      "destination": "https://kidonng.notion.site/9730f9bbce4c4554a084f6ea71d606c9"
     },
     {
       "source": "/donate",
-      "destination": "https://www.notion.so/02952e9d12f7465fbe78e861eb510149"
+      "destination": "https://kidonng.notion.site/02952e9d12f7465fbe78e861eb510149"
     }
   ],
   "github": {
